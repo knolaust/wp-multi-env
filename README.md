@@ -1,4 +1,4 @@
-# Knol Aust WordPress Multi-Environment Config
+# knolaust WP Multi-Environment Config
 
 This repository contains my standard config setup for WordPress, which 
 supports multiple environments such as local development copy, a test
